@@ -41,7 +41,7 @@
 - 친환경 정보 커뮤니티를 통해 친환경 관련 정보 및 실천 방법을 공유하면서 친환경 정볼를 얻을 수 있습니다.
 
 ## 👩‍🏫 발표 자료 및 리플렛
-- [Greenomy 발표 자료](https://github.com/comom87/greenomy/blob/0e8929529080af5ccf2aee78338ddbcc6aab0071/Greenomy%20%E1%84%85%E1%85%B5%E1%84%91%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A6%E1%86%BA.pdf)
+- [Greenomy 발표 자료](https://github.com/comom87/greenomy/blob/0e8929529080af5ccf2aee78338ddbcc6aab0071/Greenomy%20%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%20%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
 
 - [Greenomy 리플렛](https://github.com/comom87/greenomy/blob/0e8929529080af5ccf2aee78338ddbcc6aab0071/Greenomy%20%E1%84%85%E1%85%B5%E1%84%91%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A6%E1%86%BA.pdf)
 
